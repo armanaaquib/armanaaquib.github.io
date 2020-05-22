@@ -2,7 +2,7 @@
 
 - #### [django-public-blog](https://django-public-blog.herokuapp.com/)
 
-- #### [India Covid19 Tracker](https://armanaaquib.github.io/covid19/)
+- #### [India Covid19 Tracker](https://armanaaquib.github.io/covid19-india-tracker/)
 
 - #### [track-your-todo](https://track-your-todo.herokuapp.com/)
 
